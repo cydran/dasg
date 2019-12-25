@@ -1,0 +1,22 @@
+{
+  "name": "dasg",
+  "version": "0.0.1",
+  "description": "Simple Build Orchestration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cydran/dasg.git"
+  },
+  "keywords": [
+    "build"
+  ],
+  "author": "Cydran Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cydran/dasg/issues"
+  },
+  "homepage": "https://github.com/cydran/dasg#readme"
+}
